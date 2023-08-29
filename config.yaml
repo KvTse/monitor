@@ -1,0 +1,4 @@
+enable: true
+reportUrl: http://10.1.2.113:8888/basics_sdp_server_dispatch/kafka/test
+reportInterval: 10
+httpTimeout: 10
